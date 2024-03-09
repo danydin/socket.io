@@ -5,4 +5,4 @@ npm init -y
 npm i express
 
 # run server
-nodemon index
+npx nodemon
